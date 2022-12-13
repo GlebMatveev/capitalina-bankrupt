@@ -11,5 +11,5 @@ Search in the database of debtors by taxpayer identification number.
 - output to XLSX
 - Integrating in admin panel using Vue 2 with Vuetify
 
-### Admin panel
+### Integrating in admin panel
 ![Integrating in admin panel](screenshots/capitalina-bankrupt-01.jpg)
