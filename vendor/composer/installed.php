@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => '6d2486f2e7d8814a5b0278e4e7429489c5598729',
+        'name' => '__root__',
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => '6d2486f2e7d8814a5b0278e4e7429489c5598729',
+            'dev_requirement' => false,
+        ),
+        'shuchkin/simplexlsx' => array(
+            'pretty_version' => '1.0.16',
+            'version' => '1.0.16.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../shuchkin/simplexlsx',
+            'aliases' => array(),
+            'reference' => '764c427a3b7d9de5e4242791f2f9ce545288df24',
+            'dev_requirement' => false,
+        ),
+        'shuchkin/simplexlsxgen' => array(
+            'pretty_version' => '1.2.15',
+            'version' => '1.2.15.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../shuchkin/simplexlsxgen',
+            'aliases' => array(),
+            'reference' => '053574d1e1afa637f8c0b3900a11d9cdba7d6b72',
+            'dev_requirement' => false,
+        ),
+    ),
+);
