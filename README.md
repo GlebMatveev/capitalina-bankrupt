@@ -3,7 +3,7 @@
 > **commercial development**
 
 
-Search in the database of debtors by taxpayer identification number.
+Search of debtors by taxpayer identification number.
 
 ### Features
 - XSLX parsing using PHP and SimpleXLSX
